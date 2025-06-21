@@ -13,7 +13,7 @@
 
 ## Who I Am
 
-I’m a systems-oriented engineer who turns unstructured data into structured, usable systems that teams actually rely on. My core strength is combining data engineering with full-stack development to create seamless, end-to-end platforms — from raw input to live dashboards.
+I’m a systems-oriented engineer who turns unstructured data into structured, usable systems that teams actually rely on. My core strength is combining data engineering with full-stack development to create seamless, end-to-end platforms from raw input to live dashboards.
 
 I focus on long-term maintainability, not short-term hacks. Everything I build is meant to scale, survive, and simplify.  
 
@@ -26,6 +26,7 @@ I work with NGOs, startups, and public sector organizations to eliminate repetit
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,azure,postgresql,spring,angular,docker,git,vscode,figma&theme=dark" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
@@ -86,7 +87,7 @@ I design data systems that are:
 
 - **Observable**: I log everything, catch failures, and send alerts before anyone notices issues.
 - **Modular**: Pipelines are broken into reusable steps with clear interfaces.
-- **Reliable**: From async retries to transaction locks — I build for edge cases, not ideal paths.
+- **Reliable**: From async retries to transaction locks I build for edge cases, not ideal paths.
 - **Human-Centered**: Dashboards, APIs, and even logs are made with the user in mind.
 
 I don’t just build “pipelines”, I build environments where data flows clearly, and teams thrive on confidence, not chaos.
@@ -112,7 +113,7 @@ I don’t just build “pipelines”, I build environments where data flows clea
 
 ## Let's Connect
 
-If you're working on data transformation, reporting workflows, or full-stack platforms for impact — let's talk.
+If you're working on data transformation, reporting workflows, or full-stack platforms for impact let's talk.
 
 - **Email**: marwanabsi98@gmail.com  
 - **LinkedIn**: [Marwan Issa](https://www.linkedin.com/in/marwan-issa-1b903715a/)  
