@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <!-- Gradient + Wave + Desc -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Marwan%20Issa&fontSize=60&fontColor=FFFFFF&fontAlign=50&desc=Data%20Engineer%20|%20Full%20Stack%20Developer%20|%20Automation%20Architect&descAlign=50&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Marwan%20Issa&fontSize=60&fontColor=FFFFFF&fontAlign=50&desc=Data%20Engineer%20|%20Full%20Stack%20Developer%20|%20Automation%20Architect&descAlign=50&descSize=20"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Smart+Pipelines+for+Real+Impact;From+Spreadsheets+to+Automated+Systems;Turning+Data+into+Decisions" />
@@ -96,7 +96,7 @@ I don’t just build “pipelines”, I build environments where data flows clea
 ## Data System Diagram
 
 <p align="center">
-  <img src="https://github.com/marwanabsi/marwanabsi/blob/main/assets/data-pipeline-revamped.png?raw=true" width="700" alt="ETL Pipeline Diagram"/>
+  <img src="https://www.databricks.com/sites/default/files/2020/08/blog-accelerate-etl-1-og.png" width="700" alt="ETL Pipeline Diagram"/>
 </p>
 
 ---
