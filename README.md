@@ -1,177 +1,118 @@
 <!-- ============================== -->
-<!--            HEADER             -->
+<!--           HEADER              -->
 <!-- ============================== -->
 
-<h1 align="center">Marwan Issa</h1>
-<h3 align="center">Data Engineer | Full Stack Developer | Automation Expert</h3>
+<!-- Gradient + Wave + Desc -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Marwan%20Issa&fontSize=60&fontColor=FFFFFF&fontAlign=50&desc=Data%20Engineer%20|%20Full%20Stack%20Developer%20|%20Automation%20Architect&descAlign=50&descSize=18"/>
 
 <p align="center">
-Building powerful data pipelines, from spreadsheets to dashboards.<br/>
-Delivering clarity, speed, and automation for real-world impact.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Smart+Pipelines+for+Real+Impact;From+Spreadsheets+to+Automated+Systems;Turning+Data+into+Decisions" />
 </p>
-
-<hr/>
-
-<!-- ============================== -->
-<!--         ABOUT SECTION         -->
-<!-- ============================== -->
-
-## About Me
-
-I’m a data engineer who approaches every problem as a system thinker. I specialize in transforming raw, unstructured information into meaningful, structured, and automated tools that support organizations and teams.
-
-Over the past few years, I’ve worked across different sectors — NGOs, startups, and public institutions — delivering real-time dashboards, automated reporting flows, data ingestion systems, and full-stack tools to help decision-makers do more with less.
-
-My focus is always on **building for real impact**. Not just beautiful dashboards or complex code — but systems that remove friction, improve clarity, and help teams scale efficiently.
 
 ---
 
-<!-- ============================== -->
-<!--         TECH SECTION          -->
-<!-- ============================== -->
+## Who I Am
+
+I’m a systems-oriented engineer who turns unstructured data into structured, usable systems that teams actually rely on. My core strength is combining data engineering with full-stack development to create seamless, end-to-end platforms — from raw input to live dashboards.
+
+I focus on long-term maintainability, not short-term hacks. Everything I build is meant to scale, survive, and simplify.  
+
+I work with NGOs, startups, and public sector organizations to eliminate repetitive tasks, increase visibility, and drive confident decisions through automation and clear interfaces.
+
+---
 
 ## Technologies I Use
 
-I believe in using the right tool for the job. Here's what I work with regularly:
-
-- **Languages**: Python, Java, TypeScript, SQL
-- **Data Engineering**: Pandas, PySpark, Airflow, Prefect
-- **Databases**: PostgreSQL, Azure SQL, Firebase Realtime DB
-- **Backend**: Spring Boot, FastAPI
-- **Frontend**: Angular, HTML/CSS, Chart.js
-- **Cloud & Infra**: Azure Blob Storage, Azure Synapse, GitHub Actions, Docker
-- **BI & Reporting**: Power BI, PDF Export Automation, Data Normalization
-- **Design & Planning**: Figma, Lucidchart
-
-I focus on writing clean, testable code with robust error handling, modular design, and clear documentation.
-
----
-
-<!-- ============================== -->
-<!--        PROJECTS SECTION       -->
-<!-- ============================== -->
-
-## Key Projects
-
-### NGO Auto-Reporting System
-
-**Overview:**  
-Developed an end-to-end automated reporting platform for a nonprofit education program where 40+ instructors submitted activity data weekly.
-
-**Problem:**  
-Manual reporting using scattered Google Sheets created delays, inconsistency, and data loss.
-
-**Solution:**  
-- Integrated Google Sheets API to fetch and consolidate data
-- Built a Pandas-based cleaning pipeline (type enforcement, deduplication, normalization)
-- Loaded clean records into Azure SQL Database
-- Created a public API using Spring Boot to expose data securely
-- Developed a responsive Angular dashboard for monitoring metrics and exporting reports
-- Automated the entire flow using Prefect with email notifications and retry policies
-
-**Result:**  
-Saved over 80 hours/month in manual work and empowered the program managers with real-time insights.
-
----
-
-### Government Procurement ETL
-
-**Overview:**  
-Built a data pipeline to process procurement records submitted by different departments in inconsistent formats.
-
-**Tech Stack:**  
-Python, Azure Blob, Pandas, One-Hot Encoding, Power BI
-
-**Tasks:**
-- Read raw Excel files with inconsistent structures
-- Applied anomaly detection on quantity and price fields
-- Created a model to flag unusual purchases
-- Built dashboards in Power BI to visualize procurement trends and cost spikes
-
-**Impact:**  
-Helped financial teams spot inconsistencies, track supplier behavior, and report monthly summaries with confidence.
-
----
-
-### Inventory Management System
-
-**Overview:**  
-Designed a warehouse inventory system with integrated barcode tracking.
-
-**Stack:**  
-Angular, Spring Boot, PostgreSQL
-
-**Features:**
-- Role-based access for admins and staff
-- Real-time stock updates and notifications
-- History logging and multi-department tracking
-- Clean interface with minimal clicks for daily operations
-
----
-
-<!-- ============================== -->
-<!--   ENGINEERING PHILOSOPHY      -->
-<!-- ============================== -->
-
-## Core Engineering Philosophy
-
-I believe that good data systems should be:
-
-- **Predictable**: You should know exactly what happens when data enters the system.
-- **Transparent**: Logic must be clear and traceable from source to output.
-- **Automated**: Manual work should be the exception, not the norm.
-- **Safe**: Failures should be contained, logged, and recoverable without data loss.
-- **Maintainable**: Code should explain itself. Pipelines should be monitored and documented.
-
-That’s how I approach every project, whether it’s a dashboard for a local nonprofit or a backend service for a regional government team.
-
----
-
-<!-- ============================== -->
-<!--         DATA THINKING         -->
-<!-- ============================== -->
-
-## What I Think About When I Build Data Systems
-
-- **How reliable is the data source?**  
-I start by understanding the nature of the inputs — formats, frequency, and quality.
-
-- **What problems can the data actually solve?**  
-Data is only useful when it serves decisions, not when it’s just stored.
-
-- **Can the process survive without me?**  
-Every automation I build must be documented and handed off properly.
-
-- **What happens when something breaks?**  
-Every system needs observability — logs, alerts, fallbacks.
-
-- **How will people interact with this system?**  
-From the person collecting the data to the person using the output, I think about experience and clarity.
-
----
-
-<!-- ============================== -->
-<!--        GITHUB STATS           -->
-<!-- ============================== -->
-
-## GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,postgresql,spring,angular,docker,git,vscode,figma&theme=dark" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwanabsi&show_icons=true&theme=default&hide_border=false&count_private=true" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marwanabsi&theme=default&hide_border=false" width="420"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prefect-2E2E2E?style=for-the-badge&logo=prefect&logoColor=00BFFF"/>
 </p>
 
 ---
 
-<!-- ============================== -->
-<!--         CONTACT SECTION       -->
-<!-- ============================== -->
+## Featured Projects
 
-## Let’s Talk
+### NGO Auto-Reporting Pipeline
 
-I enjoy collaborating with organizations that care about quality, impact, and clarity. Whether you're trying to fix a messy workflow, automate reporting, or build a full data system — I’d love to hear about it.
+**Challenge**  
+A growing NGO struggled to gather weekly data from 40+ instructors using inconsistent Google Sheets, resulting in poor visibility and error-prone reporting.
 
-You can reach me here:
+**Solution**  
+- Integrated Sheets API to ingest submissions
+- Created a Pandas pipeline for cleaning and validation
+- Loaded results into Azure SQL DB
+- Exposed data via Spring Boot REST APIs
+- Developed Angular-based dashboard with real-time filters and PDF exports
+- Orchestrated with Prefect for scheduling, retries, and error alerts
+
+**Outcome**  
+Monthly reporting time was reduced by 80%, and leadership had real-time access to clean, visualized data.
+
+---
+
+### Procurement ETL for Government Department
+
+**Highlights**  
+- Normalized hundreds of Excel files with messy formats  
+- Built anomaly detection logic for flagging suspicious price/quantity entries  
+- Visualized via Power BI with breakdowns by supplier, category, and department  
+- Created reusable data model and tracking templates  
+
+**Impact**  
+Improved financial oversight and enabled cross-departmental tracking with no manual aggregation needed.
+
+---
+
+### Inventory Management Platform
+
+**Used In:** NGO warehouse tracking & donation management
+
+**Features**
+- Barcode scan + update in real-time
+- Access roles for different teams
+- Stock alerts and reorder indicators
+- Transaction logs with timestamps
+- Built entirely using Angular + Spring Boot + PostgreSQL
+
+---
+
+## Core Engineering Values
+
+I design data systems that are:
+
+- **Observable**: I log everything, catch failures, and send alerts before anyone notices issues.
+- **Modular**: Pipelines are broken into reusable steps with clear interfaces.
+- **Reliable**: From async retries to transaction locks — I build for edge cases, not ideal paths.
+- **Human-Centered**: Dashboards, APIs, and even logs are made with the user in mind.
+
+I don’t just build “pipelines”, I build environments where data flows clearly, and teams thrive on confidence, not chaos.
+
+---
+
+## Data System Diagram
+
+<p align="center">
+  <img src="https://github.com/marwanabsi/marwanabsi/blob/main/assets/data-pipeline-revamped.png?raw=true" width="700" alt="ETL Pipeline Diagram"/>
+</p>
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanabsi&show_icons=true&theme=react&count_private=true&hide_border=true" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marwanabsi&theme=react&hide_border=true" width="420" />
+</p>
+
+---
+
+## Let's Connect
+
+If you're working on data transformation, reporting workflows, or full-stack platforms for impact — let's talk.
 
 - **Email**: marwanabsi98@gmail.com  
 - **LinkedIn**: [Marwan Issa](https://www.linkedin.com/in/marwan-issa-1b903715a/)  
@@ -179,3 +120,6 @@ You can reach me here:
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=44CCFF&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling.;Let's+build+systems+that+last." />
+</p>
