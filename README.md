@@ -1,9 +1,12 @@
-<!-- 🧠 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Marwan%20Issa&fontAlign=50&fontColor=ffffff&color=0:000000,100:1E90FF&desc=Data%20Engineer%20|%20Full%20Stack%20Developer%20|%20Automation%20Expert&descSize=18&descAlign=60" />
+<!--HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwanabsi/marwanabsi/main/assets/banner.png" width="100%" alt="Marwan Issa Banner"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=43F7FF&center=true&vCenter=true&width=700&lines=Turning+Data+Chaos+into+Clarity;Smart+Pipelines+for+Real+Impact;ETL+%2B+APIs+%2B+Dashboards+%3D+Powerful+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Full+Stack+Developer+%7C+Automation+Expert;From+Raw+Data+to+Real+Insights+%F0%9F%93%88;Let's+Make+Data+Useful%2C+Not+Painful" />
 </p>
+
 
 ---
 
@@ -24,9 +27,13 @@
 ---
 
 ## 🧰 Tech Stack I Use (And Love)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,postgresql,spring,angular,docker,git,vscode,figma&theme=dark" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,airflow,prefect,postgresql,sql,spring,angular,docker,git,vscode,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prefect-2E2E2E?style=flat-square&logo=prefect&logoColor=00BFFF"/>
 </p>
 
 🧩 **Specialties**
@@ -75,10 +82,10 @@
 
 ---
 
-## 📈 My Visual Stack in Action
+## 🧠 My Visual Stack in Action
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwanabsi/marwanabsi/main/assets/data-pipeline.png" width="650" alt="ETL Pipeline Diagram"/>
+  <img src="https://raw.githubusercontent.com/marwanabsi/marwanabsi/main/assets/data-pipeline-revamped.png" width="750" alt="ETL Pipeline Architecture" />
 </p>
 
 ---
