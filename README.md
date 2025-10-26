@@ -3,10 +3,10 @@
 <!-- ============================== -->
 
 <!-- Gradient + Wave + Desc -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Marwan%20Issa&fontSize=60&fontColor=FFFFFF&fontAlign=50&desc=Data%20Engineer%20 2+ years|%20Full%20Stack 1+ year%20Developer%20|%20Automation%20Architect 2+ &descAlign=50&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Marwan%20Issa&fontSize=60&fontColor=FFFFFF&fontAlign=50&desc=Data%20Engineer%20|%20Full%20Stack%20Developer%20|%20Automation%20Architect&descAlign=50&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Smart+Pipelines+for+Real+Impact;From+Spreadsheets+to+Automated+Systems;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Smart+Pipelines+for+Real+Impact;From+Spreadsheets+to+Automated+Systems;Turning+Data+into+Decisions;2+Years+in+Data+Engineering+|+1%2B+Year+in+Full+Stack+Development;5%2B+Years+in+Creative+Design" />
 </p>
 
 ---
